@@ -1,0 +1,9 @@
+rencana resolusi
+1.belajar web development
+  *html
+  *css
+  *javascript
+  *php
+  *mysql
+2.belajar web design
+3.belajar advance networking
