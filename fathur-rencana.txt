@@ -7,3 +7,4 @@ rencana resolusi
   *mysql
 2.belajar web design
 3.belajar advance networking
+4.belajar It security
